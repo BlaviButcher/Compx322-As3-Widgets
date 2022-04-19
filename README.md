@@ -1,0 +1,1 @@
+I like to use lowercase letters for private and uppercase for public variables opposed to underscore and camelCase.
