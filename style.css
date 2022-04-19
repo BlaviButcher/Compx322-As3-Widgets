@@ -1,0 +1,4 @@
+.weather-line {
+  display: flex;
+  justify-content: space-between;
+}
